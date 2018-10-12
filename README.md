@@ -1,7 +1,7 @@
-## Code Fun Do ++##
-#### -Angry Nerds####
+## Code Fun Do ++
+### -Angry Nerds
 
-### IDEA ###
+### IDEA 
 We are going to make an app to to inform the user about any kind of disaster.
 To do this task our app will be having some features like:-
 - GPS tracking.
@@ -15,7 +15,7 @@ To do this task our app will be having some features like:-
 - Guidelines
 
 
-### <u> PUBLIC PORTAL </u> : ###
+### <u> PUBLIC PORTAL </u> : 
 - Their personal and Family Details.
 - General Guidelines of different types of Disaster.
 - Direct Message to help centers.
@@ -24,7 +24,7 @@ To do this task our app will be having some features like:-
 - Alert and Details of Natural Disaster going to happen.
 - Nearest rescue Camp details.
 
-### <u> RESCUE TEAM MEMBER PORTAL </U> : ###
+### <u> RESCUE TEAM MEMBER PORTAL </U> : 
 - Details of Number of People and their Location.
 - Tutorial video's on how to help.
 - Atomatic team formation of members from same area.
@@ -34,7 +34,7 @@ To do this task our app will be having some features like:-
 - Contacts of nearest NGO.
 
 
-### <u> PORTAL FOR NGO </u> :###
+### <u> PORTAL FOR NGO </u> :
 - NGO will have contacts to Government.
 - Rescue team members will contact NGO for help.
 - They will provide materials for rescue to rescue teams.
